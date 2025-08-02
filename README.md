@@ -36,7 +36,6 @@ policy\_management\_system/
 
 ---
 
----
 ###  Important Notes
 
 * **You must unzip** the entire `Milestone 1 - PolicyManagementSystem.zip` folder before running the Demonstration script.
