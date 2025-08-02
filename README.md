@@ -36,6 +36,14 @@ policy\_management\_system/
 
 ---
 
+---
+###  Important Notes
+
+* **You must unzip** the entire `Milestone 1 - PolicyManagementSystem.zip` folder before running the Demonstration script.
+* Do **not** run the Demonstration script directly from within the zipped folder. The script will not be able to access files.
+* Unzip (extract all files) to a known location like `Desktop or Document` before running the script.
+  
+---
 ## How to Use
 
 ### 1. **Download the Project**
